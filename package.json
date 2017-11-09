@@ -1,0 +1,21 @@
+{
+  "name": "rpg_backend",
+  "version": "1.0.0",
+  "description": "Backend to Support RPG control machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Otavio B.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "mongoose": "*",
+    "request": "^2.74.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/otavioborges/rpg_backend.git"
+  }
+}
